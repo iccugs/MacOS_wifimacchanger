@@ -1,0 +1,1 @@
+Short and simple script to randomize your hostname and MAC address in MacOS. All you have to do is open up a terminal in the appropriate directory and chmod +x wifimacchanger.sh and run it with ./wifimacchanger .
